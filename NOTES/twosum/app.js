@@ -29,8 +29,8 @@ function twoSum(arr, target) {
        }
     }
     // return all pairs of integers that add up to our target
-    console.log(sums);
-    return sums;
+    // console.log(sums);
+    return sums; 
 }
 
 twoSum([1,2,3,4,5], 9);
